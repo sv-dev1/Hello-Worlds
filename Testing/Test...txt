@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Added code
 Adding......................
+=======
+hfghfghfg
+>>>>>>> refs/remotes/origin/DemoBranch
